@@ -1,0 +1,22 @@
+.cart-total {
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .cart-item {
+    margin-bottom: 10px;
+    border:2px solid black;
+   display: flex;
+  justify-content: space-between;
+  border-radius: 6px;
+  padding:10px;
+  background-color: rgb(0, 191, 255,0.4);
+  }
+  
+  .total-amount {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: right;
+  }
+ 
